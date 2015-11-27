@@ -1,0 +1,28 @@
+name: imbrex
+favicon: null
+layout_spectrum: 0.05458471807651222
+typography_spectrum: 0.1620232705026865
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.35778806754387915
+  lightness: 0.1689567002467811
+  saturation: 0.7495370432734489
+  rhythmicContrast: 0.2353653577156365
+purpose: []
